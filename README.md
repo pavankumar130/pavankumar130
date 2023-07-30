@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/m_pavan_130" target="blank"><img src="https://img.shields.io/twitter/follow/m_pavan_130?logo=twitter&style=for-the-badge" alt="m_pavan_130" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce web App**
 
 - 🌱 I’m currently learning **React**
 
