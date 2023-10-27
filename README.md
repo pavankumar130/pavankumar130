@@ -9,8 +9,6 @@
 <p align="left"> <a href="https://twitter.com/m_pavan_130" target="blank"><img src="https://img.shields.io/twitter/follow/m_pavan_130?logo=twitter&style=for-the-badge" alt="m_pavan_130" /></a> </p>
 
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/pavankumar130?tab=repositories](https://github.com/pavankumar130?tab=repositories)
 
 - 💬 Ask me about **MongoDB,Express,React, Node,PHP,SQL**
