@@ -27,7 +27,7 @@ I bring hands-on experience in designing cloud-based automation workflows using 
 <p align="left">
 <a href="https://twitter.com/m_pavan_130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_pavan_130" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/meravath-pavan-kumar-4040ba21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meravath pavan kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/pavan.meravath" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavan.meravath" height="30" width="40" /></a>
+<a href="https://instagram.com/pavan.meravath" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pavan. meravath" height="30" width="40" /></a>
 </p>
 
 ---
