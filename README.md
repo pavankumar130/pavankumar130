@@ -55,4 +55,4 @@ I bring hands-on experience in designing cloud-based automation workflows using 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs? username=pavankumar130&layout=compact&theme=radical" />
 
-<img src="https://github-readme-streak-stats.herokuapp. com/?user=pavankumar130" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar130&" alt="pavankumar130" /></p>
