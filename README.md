@@ -51,11 +51,8 @@ I bring hands-on experience in designing cloud-based automation workflows using 
 
 ## 📊 GitHub Stats
 
-<!-- Option 1 - Using theme -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankumar130&show_icons=true&theme=dark" alt="pavankumar130" /></p>
+<img src="https://github-readme-stats.vercel.app/api? username=pavankumar130&show_icons=true&theme=radical" />
 
-<!-- Option 2 - Top Languages -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? username=pavankumar130&layout=compact&theme=dark" alt="pavankumar130" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs? username=pavankumar130&layout=compact&theme=radical" />
 
-<!-- Option 3 - Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar130&theme=dark" alt="pavankumar130" /></p>
+<img src="https://github-readme-streak-stats.herokuapp. com/?user=pavankumar130" />
