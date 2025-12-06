@@ -13,7 +13,7 @@
 
 I bring hands-on experience in designing cloud-based automation workflows using **AWS Lambda, S3, and EventBridge**. I develop scalable applications with **Python and Boto3**, and implement **Machine Learning and Natural Language Processing** solutions.  Passionate about building efficient, scalable cloud-based systems and exploring the intersection of cloud computing and AI. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/pavankumar130? tab=repositories](Repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/pavankumar130?tab=repositories](Repositories)
 
 - 💬 Ask me about **AWS, Python, Machine Learning, ReactJS, Node.js, MongoDB, REST APIs**
 
