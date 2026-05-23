@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- VISITOR COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=PavanMeravath&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=pavankumar130&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- ANIMATED HEADER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
@@ -83,7 +83,7 @@ I'm a passionate **AWS & Python Developer** with **2 years of hands-on experienc
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan_Meravath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meravath-pavan-kumar-4040ba21a)
-[![GitHub](https://img.shields.io/badge/GitHub-PavanMeravath-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanMeravath)
+[![GitHub](https://img.shields.io/badge/GitHub-pavankumar130-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavankumar130)
 
 </div>
 
@@ -95,12 +95,12 @@ I'm a passionate **AWS & Python Developer** with **2 years of hands-on experienc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PavanMeravath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Pavan's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanMeravath&theme=tokyonight&hide_border=true" width="49%" alt="Pavan's Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pavankumar130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Pavan's GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar130&theme=tokyonight&hide_border=true" width="49%" alt="Pavan's Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanMeravath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar130&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
 
 </div>
 
@@ -112,7 +112,7 @@ I'm a passionate **AWS & Python Developer** with **2 years of hands-on experienc
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PavanMeravath&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pavankumar130&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -124,7 +124,7 @@ I'm a passionate **AWS & Python Developer** with **2 years of hands-on experienc
 
 <div align="center">
 
-[![Pavan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PavanMeravath&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pavan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavankumar130&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -140,7 +140,7 @@ I'm a passionate **AWS & Python Developer** with **2 years of hands-on experienc
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/PavanMeravath">
+<a href="https://github.com/pavankumar130">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 
