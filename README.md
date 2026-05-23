@@ -1,53 +1,157 @@
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
-<h1 align="center">Hi 👋, I'm Meravath Pavan Kumar</h1>
-<h3 align="center">AWS Cloud Engineer | Python Developer | Machine Learning Enthusiast</h3>
-<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Coding"  width="400px" align="right"/>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar130&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar130" /> </p>
+<!-- VISITOR COUNTER -->
+![Profile Views](https://komarev.com/ghpvc/?username=PavanMeravath&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p align="left"> <a href="https://twitter.com/m_pavan_130" target="blank"><img src="https://img.shields.io/twitter/follow/m_pavan_130?logo=twitter&style=for-the-badge" alt="m_pavan_130" /></a> </p>
+<!-- ANIMATED HEADER -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
----
+# Hey there, I'm **Pavan Meravath**
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AWS+%26+Python+Developer+%E2%98%81%EF%B8%8F;Cloud+Architect+%7C+Backend+Engineer;Building+Scalable+Solutions+on+AWS;AI+%26+ML+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-I bring hands-on experience in designing cloud-based automation workflows using **AWS Lambda, S3, and EventBridge**. I develop scalable applications with **Python and Boto3**, and implement **Machine Learning and Natural Language Processing** solutions.  Passionate about building efficient, scalable cloud-based systems and exploring the intersection of cloud computing and AI. 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pavankumar130?tab=repositories](Repositories)
-
-- 💬 Ask me about **AWS, Python, Machine Learning, ReactJS, Node.js, MongoDB, REST APIs**
-
-- 📫 How to reach me **pavanmeravath9@gmail.com**
-
-- ⚡ Fun fact **I Think I am Funny**
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m_pavan_130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_pavan_130" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/meravath-pavan-kumar-4040ba21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meravath pavan kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/pavan.meravath" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pavan. meravath" height="30" width="40" /></a>
-</p>
+## 🙋‍♂️ About Me
+
+> *"Cloud is not just a technology — it's a mindset."*
+
+I'm a passionate **AWS & Python Developer** with **2 years of hands-on experience** crafting scalable, cloud-native applications and intelligent backend systems. I love turning complex problems into elegant, serverless solutions.
+
+- ☁️ **Cloud-first thinker** — I breathe AWS and dream in Lambda functions
+- 🐍 **Python purist** who also dabbles in JavaScript when the frontend calls
+- 🤖 **AI/ML explorer** — integrating Bedrock & NLP into real-world products
+- ⚡ **Always building** — side projects, automations, and things that scale
+- 🌍 Based in **India**, shipping code globally
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs. org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🌐 Frontend
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI & ML
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan_Meravath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meravath-pavan-kumar-4040ba21a)
+[![GitHub](https://img.shields.io/badge/GitHub-PavanMeravath-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanMeravath)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
 ## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar130&" alt="pavankumar130" /></p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PavanMeravath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Pavan's GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanMeravath&theme=tokyonight&hide_border=true" width="49%" alt="Pavan's Streak Stats"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanMeravath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PavanMeravath&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Pavan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PavanMeravath&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/meravath-pavan-kumar-4040ba21a">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/PavanMeravath">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 *"Open to collaborating on cloud-native projects, AI/ML applications, and anything that pushes the boundaries of what's possible on AWS."*
+
+<br/>
+
+⭐️ **If you find my work helpful, consider dropping a star on my repos!** ⭐️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+</div>
