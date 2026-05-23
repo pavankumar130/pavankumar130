@@ -95,12 +95,12 @@ I'm a passionate **AWS & Python Developer** with **2 years of hands-on experienc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pavankumar130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Pavan's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumar130&theme=tokyonight&hide_border=true" width="49%" alt="Pavan's Streak Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavankumar130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Pavan's GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=pavankumar130&theme=tokyonight&hide_border=true" width="49%" alt="Pavan's Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar130&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavankumar130&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" alt="Top Languages"/>
 
 </div>
 
